@@ -1,0 +1,12 @@
+{
+  "nombre": "Luis Araujo",
+  "edad": 18,
+  "materias": [
+    "Programación Estructurada",
+    "Sistemas Operativos",
+    "Ingles",
+    "Matematica II",
+    "Aplicaion de Metodos"
+  ],
+  "ciclo": "II-2024"
+}
